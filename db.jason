@@ -1,0 +1,220 @@
+{
+    "circuits-details": [
+        {
+            "id": "bahrain",
+            "nombre": "Bahrain International Circuit",
+            "pais": "Baréin",
+            "ubicacion": "Sakhir",
+            "descripcion": "Pista desértica con múltiples zonas DRS y sede frecuente de tests.",
+            "vueltas": 57,
+            "longitud": "5.412 km"
+        },
+        {
+            "id": "jeddah",
+            "nombre": "Jeddah Corniche Circuit",
+            "pais": "Arabia Saudita",
+            "ubicacion": "Yeda",
+            "descripcion": "Circuito callejero de alta velocidad junto al mar, muy exigente para los pilotos.",
+            "vueltas": 50,
+            "longitud": "6.174 km"
+        },
+        {
+            "id": "melbourne",
+            "nombre": "Albert Park Circuit",
+            "pais": "Australia",
+            "ubicacion": "Melbourne",
+            "descripcion": "Circuito semiurbano junto al lago, superficie lisa y trazado fluido.",
+            "vueltas": 58,
+            "longitud": "5.278 km"
+        },
+        {
+            "id": "suzuka",
+            "nombre": "Suzuka International Racing Course",
+            "pais": "Japón",
+            "ubicacion": "Suzuka",
+            "descripcion": "Tradicional circuito en forma de ocho, técnico y rápido.",
+            "vueltas": 53,
+            "longitud": "5.807 km"
+        },
+        {
+            "id": "shanghai",
+            "nombre": "Shanghai International Circuit",
+            "pais": "China",
+            "ubicacion": "Shanghái",
+            "descripcion": "Pista moderna con amplia curva de 180° en el primer sector.",
+            "vueltas": 56,
+            "longitud": "5.451 km"
+        },
+        {
+            "id": "miami",
+            "nombre": "Miami International Autodrome",
+            "pais": "Estados Unidos",
+            "ubicacion": "Miami Gardens",
+            "descripcion": "Diseño relativamente nuevo en entorno urbano, combina curvas lentas y largas rectas.",
+            "vueltas": 57,
+            "longitud": "5.412 km"
+        },
+        {
+            "id": "imola",
+            "nombre": "Autodromo Enzo e Dino Ferrari",
+            "pais": "Italia",
+            "ubicacion": "Imola",
+            "descripcion": "Puedes probarlo muy técnico y con historia, curvas de alta precisión.",
+            "vueltas": 63,
+            "longitud": "4.909 km"
+        },
+        {
+            "id": "monaco",
+            "nombre": "Circuit de Monaco",
+            "pais": "Mónaco",
+            "ubicacion": "Montecarlo",
+            "descripcion": "Famoso circuito callejero estrecho e histórico, difícil de adelantar.",
+            "vueltas": 78,
+            "longitud": "3.337 km"
+        },
+        {
+            "id": "montreal",
+            "nombre": "Circuit Gilles Villeneuve",
+            "pais": "Canadá",
+            "ubicacion": "Montreal",
+            "descripcion": "Pista rápida con chicana final y muros cerca.",
+            "vueltas": 70,
+            "longitud": "4.361 km"
+        },
+        {
+            "id": "barcelona",
+            "nombre": "Circuit de Barcelona-Catalunya",
+            "pais": "España",
+            "ubicacion": "Montmeló",
+            "descripcion": "Circuito técnico-predecido, habitual de tests de pretemporada.",
+            "vueltas": 66,
+            "longitud": "4.657 km"
+        },
+        {
+            "id": "spielberg",
+            "nombre": "Red Bull Ring",
+            "pais": "Austria",
+            "ubicacion": "Spielberg",
+            "descripcion": "Pista corta y ondulada, con muchas rectas y frenadas fuertes.",
+            "vueltas": 71,
+            "longitud": "4.318 km"
+        },
+        {
+            "id": "silverstone",
+            "nombre": "Silverstone Circuit",
+            "pais": "Reino Unido",
+            "ubicacion": "Silverstone",
+            "descripcion": "Cuna de la F1, con curvas legendarias como Maggots y Becketts.",
+            "vueltas": 52,
+            "longitud": "5.891 km"
+        },
+        {
+            "id": "hungaroring",
+            "nombre": "Hungaroring",
+            "pais": "Hungría",
+            "ubicacion": "Mogyoród",
+            "descripcion": "Circuito estrecho y técnico cerca de Budapest.",
+            "vueltas": 70,
+            "longitud": "4.381 km"
+        },
+        {
+            "id": "spa",
+            "nombre": "Circuit de Spa-Francorchamps",
+            "pais": "Bélgica",
+            "ubicacion": "Stavelot",
+            "descripcion": "Circuito clásico, largo y variado con Eau Rouge.",
+            "vueltas": 44,
+            "longitud": "7.004 km"
+        },
+        {
+            "id": "zandvoort",
+            "nombre": "Circuit Zandvoort",
+            "pais": "Países Bajos",
+            "ubicacion": "Zandvoort",
+            "descripcion": "Circuito en dunas con curvas rápidas y verticalidad.",
+            "vueltas": 72,
+            "longitud": "4.259 km"
+        },
+        {
+            "id": "monza",
+            "nombre": "Autodromo Nazionale Monza",
+            "pais": "Italia",
+            "ubicacion": "Monza",
+            "descripcion": "El Templo de la Velocidad, enorme ratio rectas/curvas.",
+            "vueltas": 53,
+            "longitud": "5.793 km"
+        },
+        {
+            "id": "baku",
+            "nombre": "Baku City Circuit",
+            "pais": "Azerbaiyán",
+            "ubicacion": "Bakú",
+            "descripcion": "Circuito callejero con enormes rectas y sección urbana antigua.",
+            "vueltas": 51,
+            "longitud": "6.003 km"
+        },
+        {
+            "id": "singapore",
+            "nombre": "Marina Bay Street Circuit",
+            "pais": "Singapur",
+            "ubicacion": "Singapur",
+            "descripcion": "Pista nocturna urbana, técnica y calurosa.",
+            "vueltas": 61,
+            "longitud": "5.065 km"
+        },
+        {
+            "id": "austin",
+            "nombre": "Circuit of the Americas",
+            "pais": "Estados Unidos",
+            "ubicacion": "Austin, Texas",
+            "descripcion": "Circuito ondulado con subida al sector uno y curvas variadas.",
+            "vueltas": 56,
+            "longitud": "5.513 km"
+        },
+        {
+            "id": "mexico",
+            "nombre": "Autódromo Hermanos Rodríguez",
+            "pais": "México",
+            "ubicacion": "Ciudad de México",
+            "descripcion": "Altura alta, sección de pelota final y estadio legendario.",
+            "vueltas": 71,
+            "longitud": "4.304 km"
+        },
+        {
+            "id": "saopaulo",
+            "nombre": "Autódromo José Carlos Pace",
+            "pais": "Brasil",
+            "ubicacion": "São Paulo",
+            "descripcion": "También conocido como Interlagos, técnico y con lluvia frecuente.",
+            "vueltas": 71,
+            "longitud": "4.309 km"
+        },
+        {
+            "id": "lasvegas",
+            "nombre": "Las Vegas Strip Circuit",
+            "pais": "Estados Unidos",
+            "ubicacion": "Las Vegas",
+            "descripcion": "Circuito nocturno por el Strip, nuevo y espectacular.",
+            "vueltas": 50,
+            "longitud": "6.120 km"
+        },
+        {
+            "id": "lusail",
+            "nombre": "Lusail International Circuit",
+            "pais": "Qatar",
+            "ubicacion": "Lusail",
+            "descripcion": "Pista nueva, rendimiento en nocturno y clima árido.",
+            "vueltas": 57,
+            "longitud": "5.419 km"
+        },
+        {
+            "id": "yasmarina",
+            "nombre": "Yas Marina Circuit",
+            "pais": "Emiratos Árabes Unidos",
+            "ubicacion": "Abu Dhabi",
+            "descripcion": "Nocturno moderno en isla con mix de lenta y rápida.",
+            "vueltas": 58,
+            "longitud": "5.281 km"
+        }
+    ]
+}
