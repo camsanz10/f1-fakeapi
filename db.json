@@ -226,171 +226,147 @@
     "circuits": [
         {
             "id": "bahrain",
-            "nombre": "Circuito Internacional de Baréin",
+            "nombre": "Baréin",
             "pais": "Baréin",
-            "fecha": "2024-03-02",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Circuit_Bahrain.png/800px-Circuit_Bahrain.png"
+            "fecha": "2024-03-02"
         },
         {
             "id": "jeddah",
-            "nombre": "Circuito Corniche de Yeda",
+            "nombre": "Yeda",
             "pais": "Arabia Saudita",
-            "fecha": "2024-03-09",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Circuit_Jeddah.png/800px-Circuit_Jeddah.png"
+            "fecha": "2024-03-09"
         },
         {
             "id": "melbourne",
-            "nombre": "Circuito de Albert Park",
+            "nombre": "Albert Park",
             "pais": "Australia",
-            "fecha": "2024-03-24",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Albert_Park_Street_Circuit_in_Melbourne%2C_Australia.svg/800px-Albert_Park_Street_Circuit_in_Melbourne%2C_Australia.svg.png"
-        },
-        {
-            "id": "suzuka",
-            "nombre": "Circuito de Suzuka",
-            "pais": "Japón",
-            "fecha": "2024-04-07",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Circuit_Suzuka.png/800px-Circuit_Suzuka.png"
+            "fecha": "2024-03-24"
         },
         {
             "id": "shanghai",
-            "nombre": "Circuito Internacional de Shanghái",
+            "nombre": "Shanghái",
             "pais": "China",
-            "fecha": "2024-04-21",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Circuit_Shanghai.png/800px-Circuit_Shanghai.png"
+            "fecha": "2024-04-21"
+        },
+        {
+            "id": "suzuka",
+            "nombre": "Suzuka",
+            "pais": "Japón",
+            "fecha": "2024-04-07"
         },
         {
             "id": "miami",
-            "nombre": "Circuito Internacional de Miami",
-            "pais": "Estados Unidos",
-            "fecha": "2024-05-05",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Miami_Grand_Prix_Circuit_Layout_2022.svg/800px-Miami_Grand_Prix_Circuit_Layout_2022.svg.png"
+            "nombre": "Miami",
+            "pais": "EE. UU.",
+            "fecha": "2024-05-05"
         },
         {
             "id": "imola",
-            "nombre": "Autódromo Enzo e Dino Ferrari",
+            "nombre": "Imola",
             "pais": "Italia",
-            "fecha": "2024-05-19",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circuit_Imola.png/800px-Circuit_Imola.png"
+            "fecha": "2024-05-19"
         },
         {
             "id": "monaco",
-            "nombre": "Circuito de Mónaco",
+            "nombre": "Mónaco",
             "pais": "Mónaco",
-            "fecha": "2024-05-26",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Circuit_Monaco.png/800px-Circuit_Monaco.png"
+            "fecha": "2024-05-26"
         },
         {
             "id": "montreal",
-            "nombre": "Circuito Gilles Villeneuve",
+            "nombre": "Montreal",
             "pais": "Canadá",
-            "fecha": "2024-06-09",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Circuit_Gilles_Villeneuve.png/800px-Circuit_Gilles_Villeneuve.png"
+            "fecha": "2024-06-09"
         },
         {
             "id": "barcelona",
-            "nombre": "Circuito de Barcelona-Cataluña",
+            "nombre": "Barcelona",
             "pais": "España",
-            "fecha": "2024-06-23",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Circuit_de_Barcelona-Catalunya.svg/800px-Circuit_de_Barcelona-Catalunya.svg.png"
+            "fecha": "2024-06-23"
         },
         {
             "id": "red_bull_ring",
             "nombre": "Red Bull Ring",
             "pais": "Austria",
-            "fecha": "2024-06-30",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Circuit_Red_Bull_Ring.svg/800px-Circuit_Red_Bull_Ring.svg.png"
+            "fecha": "2024-06-30"
         },
         {
             "id": "silverstone",
-            "nombre": "Circuito de Silverstone",
+            "nombre": "Silverstone",
             "pais": "Reino Unido",
-            "fecha": "2024-07-07",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Silverstone_Circuit_2011.svg/800px-Silverstone_Circuit_2011.svg.png"
+            "fecha": "2024-07-07"
         },
         {
             "id": "hungaroring",
             "nombre": "Hungaroring",
             "pais": "Hungría",
-            "fecha": "2024-07-21",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circuit_Hungaroring.png/800px-Circuit_Hungaroring.png"
+            "fecha": "2024-07-21"
         },
         {
             "id": "spa",
-            "nombre": "Circuito de Spa-Francorchamps",
+            "nombre": "Spa",
             "pais": "Bélgica",
-            "fecha": "2024-07-28",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Circuit_Spa.png/800px-Circuit_Spa.png"
+            "fecha": "2024-07-28"
         },
         {
             "id": "zandvoort",
-            "nombre": "Circuito de Zandvoort",
+            "nombre": "Zandvoort",
             "pais": "Países Bajos",
-            "fecha": "2024-08-25",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Circuit_Zandvoort.png/800px-Circuit_Zandvoort.png"
+            "fecha": "2024-08-25"
         },
         {
             "id": "monza",
-            "nombre": "Autódromo Nacional de Monza",
+            "nombre": "Monza",
             "pais": "Italia",
-            "fecha": "2024-09-01",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Circuit_Monza.png/800px-Circuit_Monza.png"
+            "fecha": "2024-09-01"
         },
         {
             "id": "baku",
-            "nombre": "Circuito callejero de Bakú",
+            "nombre": "Bakú",
             "pais": "Azerbaiyán",
-            "fecha": "2024-09-15",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Circuit_Baku.png/800px-Circuit_Baku.png"
+            "fecha": "2024-09-15"
         },
         {
             "id": "singapore",
-            "nombre": "Circuito callejero de Marina Bay",
+            "nombre": "Marina Bay",
             "pais": "Singapur",
-            "fecha": "2024-09-22",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Circuit_Singapore.png/800px-Circuit_Singapore.png"
+            "fecha": "2024-09-22"
         },
         {
             "id": "cota",
-            "nombre": "Circuito de las Américas (COTA)",
-            "pais": "Estados Unidos",
-            "fecha": "2024-10-20",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circuit_Austin.png/800px-Circuit_Austin.png"
+            "nombre": "COTA",
+            "pais": "EE. UU.",
+            "fecha": "2024-10-20"
         },
         {
             "id": "mexico_city",
-            "nombre": "Autódromo Hermanos Rodríguez",
+            "nombre": "México",
             "pais": "México",
-            "fecha": "2024-10-27",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Circuit_Hermanos_Rodriguez.png/800px-Circuit_Hermanos_Rodriguez.png"
+            "fecha": "2024-10-27"
         },
         {
             "id": "interlagos",
-            "nombre": "Autódromo José Carlos Pace (Interlagos)",
+            "nombre": "Interlagos",
             "pais": "Brasil",
-            "fecha": "2024-11-03",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Interlagos.svg/800px-Interlagos.svg.png"
+            "fecha": "2024-11-03"
         },
         {
             "id": "vegas",
-            "nombre": "Las Vegas Street Circuit",
-            "pais": "Estados Unidos",
-            "fecha": "2024-11-23",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Las_Vegas_Grand_Prix_Track_Map.svg/800px-Las_Vegas_Grand_Prix_Track_Map.svg.png"
+            "nombre": "Las Vegas",
+            "pais": "EE. UU.",
+            "fecha": "2024-11-23"
         },
         {
             "id": "losail",
-            "nombre": "Circuito Internacional de Losail",
+            "nombre": "Losail",
             "pais": "Catar",
-            "fecha": "2024-12-01",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Losail.svg/800px-Losail.svg.png"
+            "fecha": "2024-12-01"
         },
         {
             "id": "yas_marina",
-            "nombre": "Circuito Yas Marina",
+            "nombre": "Yas Marina",
             "pais": "Abu Dabi",
-            "fecha": "2024-12-08",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Circuit_Yas_Marina.png/800px-Circuit_Yas_Marina.png"
+            "fecha": "2024-12-08"
         }
     ]
 }
