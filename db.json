@@ -1,0 +1,162 @@
+"pilotos": [
+  {
+    "id": "max_verstappen",
+    "nombre": "Max Verstappen",
+    "nacionalidad": "Holandés",
+    "equipo": "Red Bull",
+    "numero": 1,
+    "imagen": "ruta_a_imagen/max.jpg"
+  },
+  {
+    "id": "sergio_perez",
+    "nombre": "Sergio Pérez",
+    "nacionalidad": "Mexicano",
+    "equipo": "Red Bull",
+    "numero": 11,
+    "imagen": "ruta_a_imagen/perez.jpg"
+  },
+  {
+    "id": "lewis_hamilton",
+    "nombre": "Lewis Hamilton",
+    "nacionalidad": "Británico",
+    "equipo": "Mercedes",
+    "numero": 44,
+    "imagen": "ruta_a_imagen/hamilton.jpg"
+  },
+  {
+    "id": "george_russell",
+    "nombre": "George Russell",
+    "nacionalidad": "Británico",
+    "equipo": "Mercedes",
+    "numero": 63,
+    "imagen": "ruta_a_imagen/russell.jpg"
+  },
+  {
+    "id": "charles_leclerc",
+    "nombre": "Charles Leclerc",
+    "nacionalidad": "Monegasco",
+    "equipo": "Ferrari",
+    "numero": 16,
+    "imagen": "ruta_a_imagen/leclerc.jpg"
+  },
+  {
+    "id": "carlos_sainz",
+    "nombre": "Carlos Sainz",
+    "nacionalidad": "Español",
+    "equipo": "Ferrari",
+    "numero": 55,
+    "imagen": "ruta_a_imagen/sainz.jpg"
+  },
+  {
+    "id": "lando_norris",
+    "nombre": "Lando Norris",
+    "nacionalidad": "Británico",
+    "equipo": "McLaren",
+    "numero": 4,
+    "imagen": "ruta_a_imagen/norris.jpg"
+  },
+  {
+    "id": "oscar_piastri",
+    "nombre": "Oscar Piastri",
+    "nacionalidad": "Australiano",
+    "equipo": "McLaren",
+    "numero": 81,
+    "imagen": "ruta_a_imagen/piastri.jpg"
+  },
+  {
+    "id": "fernando_alonso",
+    "nombre": "Fernando Alonso",
+    "nacionalidad": "Español",
+    "equipo": "Aston Martin",
+    "numero": 14,
+    "imagen": "ruta_a_imagen/alonso.jpg"
+  },
+  {
+    "id": "lance_stroll",
+    "nombre": "Lance Stroll",
+    "nacionalidad": "Canadiense",
+    "equipo": "Aston Martin",
+    "numero": 18,
+    "imagen": "ruta_a_imagen/stroll.jpg"
+  },
+  {
+    "id": "alex_albon",
+    "nombre": "Alex Albon",
+    "nacionalidad": "Tailandés",
+    "equipo": "Williams",
+    "numero": 23,
+    "imagen": "ruta_a_imagen/albon.jpg"
+  },
+  {
+    "id": "logan_sargeant",
+    "nombre": "Logan Sargeant",
+    "nacionalidad": "Estadounidense",
+    "equipo": "Williams",
+    "numero": 2,
+    "imagen": "ruta_a_imagen/sargeant.jpg"
+  },
+  {
+    "id": "kevin_magnussen",
+    "nombre": "Kevin Magnussen",
+    "nacionalidad": "Danés",
+    "equipo": "Haas",
+    "numero": 20,
+    "imagen": "ruta_a_imagen/magnussen.jpg"
+  },
+  {
+    "id": "nico_hulkenberg",
+    "nombre": "Nico Hülkenberg",
+    "nacionalidad": "Alemán",
+    "equipo": "Haas",
+    "numero": 27,
+    "imagen": "ruta_a_imagen/hulkenberg.jpg"
+  },
+  {
+    "id": "valtteri_bottas",
+    "nombre": "Valtteri Bottas",
+    "nacionalidad": "Finlandés",
+    "equipo": "Kick Sauber",
+    "numero": 77,
+    "imagen": "ruta_a_imagen/bottas.jpg"
+  },
+  {
+    "id": "zhou_guanyu",
+    "nombre": "Zhou Guanyu",
+    "nacionalidad": "Chino",
+    "equipo": "Kick Sauber",
+    "numero": 24,
+    "imagen": "ruta_a_imagen/zhou.jpg"
+  },
+  {
+    "id": "yuki_tsunoda",
+    "nombre": "Yuki Tsunoda",
+    "nacionalidad": "Japonés",
+    "equipo": "RB",
+    "numero": 22,
+    "imagen": "ruta_a_imagen/tsunoda.jpg"
+  },
+  {
+    "id": "daniel_ricciardo",
+    "nombre": "Daniel Ricciardo",
+    "nacionalidad": "Australiano",
+    "equipo": "RB",
+    "numero": 3,
+    "imagen": "ruta_a_imagen/ricciardo.jpg"
+  },
+  {
+    "id": "esteban_ocon",
+    "nombre": "Esteban Ocon",
+    "nacionalidad": "Francés",
+    "equipo": "Alpine",
+    "numero": 31,
+    "imagen": "ruta_a_imagen/ocon.jpg"
+  },
+  {
+    "id": "pierre_gasly",
+    "nombre": "Pierre Gasly",
+    "nacionalidad": "Francés",
+    "equipo": "Alpine",
+    "numero": 10,
+    "imagen": "ruta_a_imagen/gasly.jpg"
+  }
+]
