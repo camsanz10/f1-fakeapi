@@ -19,7 +19,14 @@
             "nombre": "Circuito de Albert Park",
             "pais": "Australia",
             "fecha": "2024-03-24",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Albert_Park_Street_Circuit_in_Australia.svg/800px-Albert_Park_Street_Circuit_in_Australia.svg.png"
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Albert_Park_Street_Circuit_in_Melbourne%2C_Australia.svg/800px-Albert_Park_Street_Circuit_in_Melbourne%2C_Australia.svg.png"
+        },
+        {
+            "id": "shanghai",
+            "nombre": "Circuito Internacional de Shanghái",
+            "pais": "China",
+            "fecha": "2024-04-21",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Circuit_Shanghai.png/800px-Circuit_Shanghai.png"
         },
         {
             "id": "suzuka",
@@ -29,18 +36,11 @@
             "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Circuit_Suzuka.png/800px-Circuit_Suzuka.png"
         },
         {
-            "id": "shanghai",
-            "nombre": "Circuito Internacional de Shanghái",
-            "pais": "China",
-            "fecha": "2024-04-21",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Shanghai_International_Racing_Circuit_track_map.svg/800px-Shanghai_International_Racing_Circuit_track_map.svg.png"
-        },
-        {
             "id": "miami",
             "nombre": "Circuito Internacional de Miami",
             "pais": "Estados Unidos",
             "fecha": "2024-05-05",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Miami_Grand_Prix_Circuit_2022.svg/800px-Miami_Grand_Prix_Circuit_2022.svg.png"
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Miami_Grand_Prix_Circuit_Layout_2022.svg/800px-Miami_Grand_Prix_Circuit_Layout_2022.svg.png"
         },
         {
             "id": "imola",
